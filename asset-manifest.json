@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/nid/static/css/main.ef40bbb7.css",
-    "main.js": "/nid/static/js/main.f7bad4c5.js",
+    "main.css": "/nid/static/css/main.58027658.css",
+    "main.js": "/nid/static/js/main.db497668.js",
+    "static/media/nid.png": "/nid/static/media/nid.cc7e711d3b89975acad9.png",
     "static/media/aln.png": "/nid/static/media/aln.27e8d64d688591202c29.png",
     "static/media/km.png": "/nid/static/media/km.b200b30848ef5f90dfaa.png",
     "static/media/dsh.png": "/nid/static/media/dsh.ad024976460618047200.png",
@@ -15,6 +16,7 @@
     "index.html": "/nid/index.html",
     "static/media/feature3.svg": "/nid/static/media/feature3.140fd1803152f3ca988dd6e619651870.svg",
     "static/media/mousesquare.svg": "/nid/static/media/mousesquare.deb7961ada96b6f3ed0beff133fc01a6.svg",
+    "static/media/Vector 1.svg": "/nid/static/media/Vector 1.c219bbb2c998a6b56dc7.svg",
     "static/media/svg-decorator-blob-3.svg": "/nid/static/media/svg-decorator-blob-3.de3cee31b9fcddf16b65056335c6f8e0.svg",
     "static/media/quotes-l.svg": "/nid/static/media/quotes-l.075e0fe3e775496713dce7e02c3f74ed.svg",
     "static/media/svg-decorator-blob-6.svg": "/nid/static/media/svg-decorator-blob-6.ea7897a9cabd18823c4ab12c47c149b9.svg",
@@ -41,11 +43,11 @@
     "static/media/facebook-icon.svg": "/nid/static/media/facebook-icon.8f6512c4ee4f21763666f0f3b69d970d.svg",
     "static/media/arrow-left-3-icon.svg": "/nid/static/media/arrow-left-3-icon.d48c6bae447f4492e1860f8a253007c8.svg",
     "static/media/arrow-right-3-icon.svg": "/nid/static/media/arrow-right-3-icon.d415f77e8dc81ff77fdb53c0ee2da771.svg",
-    "main.ef40bbb7.css.map": "/nid/static/css/main.ef40bbb7.css.map",
-    "main.f7bad4c5.js.map": "/nid/static/js/main.f7bad4c5.js.map"
+    "main.58027658.css.map": "/nid/static/css/main.58027658.css.map",
+    "main.db497668.js.map": "/nid/static/js/main.db497668.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef40bbb7.css",
-    "static/js/main.f7bad4c5.js"
+    "static/css/main.58027658.css",
+    "static/js/main.db497668.js"
   ]
 }
